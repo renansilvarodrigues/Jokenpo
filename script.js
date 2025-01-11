@@ -1,4 +1,3 @@
-
 const result = document.querySelector('.result')
 const humanScore = document.querySelector('#human-score')
 const machineScore = document.querySelector('#machine-score')
